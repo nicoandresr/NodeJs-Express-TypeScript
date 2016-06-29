@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "moduleResolution": "classic",
+        "preserveConstEnums": true,
+        "outFile": "../../built/local/index.js",
+        "sourceMap": true
+    },
+    "exclude": [
+        "node_modules",
+        "typings"
+    ]
+}
